@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\prog\\net\\GeekMeet\\API\\API.csproj": {}
+    "C:\\prog\\net\\GeekMeet\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\prog\\net\\GeekMeet\\API\\API.csproj": {
+    "C:\\prog\\net\\GeekMeet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\prog\\net\\GeekMeet\\API\\API.csproj",
+        "projectUniqueName": "C:\\prog\\net\\GeekMeet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\prog\\net\\GeekMeet\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "D:\\prog\\net\\GeekMeet\\API\\obj\\",
+        "projectPath": "C:\\prog\\net\\GeekMeet\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Dell 7390 I7\\.nuget\\packages\\",
+        "outputPath": "C:\\prog\\net\\GeekMeet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell 7390 I7\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
